@@ -1,0 +1,10 @@
+Redux:
+->it is a state management library
+->makes complex apps easier
+->not explicitly to work with react js
+
+Redux cycle:
+Actioncreator->action->dispatch->reducer->state
+
+Actioncreator: it is a function that returns plain javascript object i.e action
+Action: it will have TYPE purpose of action.

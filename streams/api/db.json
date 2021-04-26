@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "Yes it is about React JS",
+      "userId": null,
+      "id": 1
+    },
+    {
+      "title": "Stream2",
+      "description": "Stream2 is a very good",
+      "id": 2
+    },
+    {
+      "title": "Node Js",
+      "description": "Node Js stream created by me",
+      "userId": "109213240375411691293",
+      "id": 4
+    }
+  ]
+}
